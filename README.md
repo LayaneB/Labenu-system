@@ -1,9 +1,15 @@
 # LabenuSystem
 
-Projeto proposto pela instituição Labenu.
-Sistema que represente o básico da organização.
+Projeto proposto pela instituição Labenu. O objetivo é desenvolver um sistema para a organização e gerenciamento de atividades de uma instituição de ensino. Aplicando os conceitos visto ao longo da semana:
+- [ ]  O que é uma classe
+- [ ]  O que é uma instância de classe
+- [ ]  Como se cria uma nova instância de classe
+- [ ]  O que são atributos e métodos numa classe?
+- [ ]  O que são herança e subclasse
+- [ ]  O que é o método construtor
+- [ ]  O que é uma interface
 
-Possui 3 entidades importantes:
+### Possui 3 entidades importantes:
 
  1. Estudantes
 
